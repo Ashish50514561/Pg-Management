@@ -20,7 +20,7 @@ pg management is a full stack utility for effective management of tenants,tracki
 * Validations
     * Validations are done using Formik and Yup
     * Precise validations on login and singup forms
-    * validations on adding Tenants Rooms Buildings
+    * validations on adding Tenants, Rooms and Buildings
    
     
 * Admin Module
