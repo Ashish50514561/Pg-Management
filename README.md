@@ -16,6 +16,12 @@ pg management is a full stack utility for effective management of tenants,tracki
 * Visulization
     * Data is shown in Bar charts line Charts Grids
     * Recharts is used for data visualization
+
+* Validations
+    * Validations are done using Formik and Yup
+    * Precise validations on login and singup forms
+    * validations on adding Tenants Rooms Buildings
+   
     
 * Admin Module
     * User can Add or Delete a tenant
