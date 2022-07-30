@@ -6,11 +6,11 @@ pg management is a full stack utility for effective management of tenants,tracki
 * Javascript | ES6
 * ReactJS | NodeJS | Express | MongoDB
 * Git
- * **Material-UI | Redux Axios | Formik | Yup | Recharts | Redux-Thunk | BcryptJS | Cron | JsonWebToken | MomentJS Mongoose | Multer**
+ * **Material-UI | Redux | Axios | Formik | Yup | Recharts | Redux-Thunk | BcryptJS | Cron | JsonWebToken | MomentJS Mongoose | Multer**
 
 ## Features
 * Authentification 
-    * User must signup singnin in order to use the app
+    * User must signup signin in order to use the app
     * JWT and BcryptJS used for Authentification
     
 * Visulization
@@ -26,6 +26,7 @@ pg management is a full stack utility for effective management of tenants,tracki
 * Admin Module
     * User can Add or Delete a tenant
     * Control and Update Payment status of tenants
+    * Search Sort and Filter functionalities for tenants
     * Add or Delete  Buildings
     * Add rooms to buildings
     
